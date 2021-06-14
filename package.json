@@ -1,0 +1,20 @@
+{
+  "name": "clean-api-typescript",
+  "version": "1.0.0",
+  "description": "This project is currently being build using TDD and Clean Archicteture principles from Mango's training.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/beavanzi/clean-api-typescript.git",
+  "keywords": [],
+  "author": "beavanzi <bia.avanzi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beavanzi/clean-api-typescript/issues"
+  },
+  "homepage": "https://github.com/beavanzi/clean-api-typescript#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.6"
+  }
+}
