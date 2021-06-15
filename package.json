@@ -15,6 +15,8 @@
   },
   "homepage": "https://github.com/beavanzi/clean-api-typescript#readme",
   "devDependencies": {
-    "git-commit-msg-linter": "^3.2.6"
+    "@types/node": "^15.12.2",
+    "git-commit-msg-linter": "^3.2.6",
+    "typescript": "^4.3.2"
   }
 }
